@@ -1,4 +1,4 @@
-# cuda-batch-image-processing
+
 # CUDA Batch Image Processing
 
 ## Overview
